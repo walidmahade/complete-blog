@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.css'
+import './App.scss'
 import SiteHeader from './components/site-header/site-header'
 import { Divider } from '@chakra-ui/react'
 import Routes from './routes/routes'
